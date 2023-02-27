@@ -20,3 +20,7 @@
 ### Career
 
 * https://github.com/kamranahmedse/developer-roadmap
+
+## Machine Learning
+
+* https://github.com/cfortuner/promptable
