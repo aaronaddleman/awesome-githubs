@@ -25,3 +25,4 @@
 ## Machine Learning
 
 * https://github.com/cfortuner/promptable
+* https://github.com/kelvins/awesome-mlops
