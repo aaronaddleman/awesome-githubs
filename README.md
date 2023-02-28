@@ -1,5 +1,9 @@
 # awesome-githubs
 
+## awesome lists
+
+* https://github.com/bayandin/awesome-awesomeness
+
 ## Building
 
 * https://github.com/codecrafters-io/build-your-own-x
