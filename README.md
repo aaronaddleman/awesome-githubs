@@ -4,6 +4,10 @@
 
 * https://github.com/bayandin/awesome-awesomeness
 
+## Data Science
+
+* https://github.com/Kanaries/pygwalker
+
 ## Building
 
 * https://github.com/codecrafters-io/build-your-own-x
