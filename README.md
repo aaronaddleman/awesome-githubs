@@ -4,6 +4,10 @@
 
 * https://github.com/bayandin/awesome-awesomeness
 
+## Alerting
+
+* https://github.com/keephq/keep
+
 ## Data Science
 
 * https://github.com/Kanaries/pygwalker
