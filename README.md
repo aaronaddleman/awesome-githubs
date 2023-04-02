@@ -43,6 +43,14 @@
 * https://github.com/replicate/scribble-diffusion
 * https://github.com/wl-zhao/VPD
 * https://github.com/Nutlope/aicommits
+* https://www.poised.com/
+* https://lumen5.com/
+* https://openai.com/research/dall-e
+* https://www.lalal.ai/
+* https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F
+* https://www.supermeme.ai/
+* https://github.com/features/copilot/
+* https://deepai.org/
 
 ## Machine Learning
 
