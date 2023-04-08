@@ -19,7 +19,14 @@
 * https://github.com/neemspees/tragic-methods
 * https://lambdaisland.com/pricing
 * https://github.com/56kcloud/Training
-* https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/ 
+* https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
+* https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+* https://www.codementor.io/@garethdwyer/building-a-crud-application-with-flask-and-sqlalchemy-dm3wv7yu2
+* https://ericnormand.me/
+
+## Programming frameworks/libs
+
+* http://pedestal.io/index
 
 ## awesome lists
 
