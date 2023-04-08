@@ -1,8 +1,25 @@
 # awesome-githubs
 
-## programming tips
+## principals
+
+* https://softwarefoundations.cis.upenn.edu/
+
+## math
+
+* https://github.com/dbrattli/oslash/wiki/Functors,-Applicatives,-And-Monads-In-Pictures
+* https://github.com/dbrattli/OSlash/wiki/Three-Useful-Monads
+
+
+## data
+
+* https://github.com/TimelyDataflow/differential-dataflow
+
+## programming tutorials
 
 * https://github.com/neemspees/tragic-methods
+* https://lambdaisland.com/pricing
+* https://github.com/56kcloud/Training
+* https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/ 
 
 ## awesome lists
 
