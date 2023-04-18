@@ -75,6 +75,7 @@
 * https://www.supermeme.ai/
 * https://github.com/features/copilot/
 * https://deepai.org/
+* https://github.com/robusta-dev/kubernetes-chatgpt-bot
 
 ## Machine Learning
 
