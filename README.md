@@ -39,6 +39,7 @@
 ## Data Science
 
 * https://github.com/Kanaries/pygwalker
+* https://github.com/gventuri/pandas-ai
 
 ## Building
 
